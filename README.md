@@ -8,7 +8,9 @@ Note Commands for Sfml library:
 Note Libaraires for Run the Project:
 
   1- To compile the game: g++ -c main.cpp
+  
   2- To link with sfml libaray:  g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+  
   3- To run the application:  ./sfml-app
 
 # Some Screen Shots of the Game
